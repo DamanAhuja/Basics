@@ -1,5 +1,4 @@
 # KEYWORDS 
- ![download](https://github.com/KRIISHSHARMA/CODE/assets/86760658/5b72aef7-b976-4088-81d2-d0d94c05d003) 
  1. **CISC** - Complex Instruction Set Computer- Closed 
   source - intel, AMD 
  2. **RISC** - Reduced Instruction Set Computer- Closed source - ARM 
@@ -77,7 +76,6 @@
  40. **ASIC** - ( App specific integrated ckt. ) is an integrated circuit chip customized for a particular use, rather than intended for general-purpose use, such as a chip designed to run in a digital voice recorder or a high-efficiency video codec. ex- ***BITCOIN MINER*** 
  41. **containers** - Containers are packages of software that contain all of the necessary elements to run in any environment. In this way, containers virtualize the operating system and run anywhere, from a private data center to the public cloud or even on a developer's personal laptop. 
  42. **dockers** - Docker is a platform designed to help developers build, share, and run container applications. We handle the tedious setup, so you can focus on the code. 
-     ![containers_vs_vm-1-1](https://github.com/KRIISHSHARMA/basics/assets/86760658/a321e5fc-d1b7-460e-95be-cf81d7492832) 
  43. **LXC(liinux containers)** - Linux Containers is an operating-system-level virtualization method for running multiple isolated Linux systems on a control host using a single Linux kernel 
  44. **centralized computing** - Centralized computing is computing done at a central location, using terminals that are attached to a central computer. 
  45. **decentralized computing** - Decentralized computing is the allocation of resources, both hardware and software, to each individual workstation, or office location 
@@ -106,7 +104,6 @@
      -***Keystone***- An identity management system responsible for user and service authentication.  
  59. **proxmox** - Proxmox VE is an open-source platform for server virtualization that offers robust capabilities for managing both KVM (Kernel-based Virtual Machine) hypervisors and Linux Containers (LXC). It's used by organizations large and small. 
  60. **HA(high availability)** - High availability (HA) is the ability of a system to operate continuously without failing for a designated period of time. 
- ![data_center-information_flow-f_mobile](https://github.com/KRIISHSHARMA/basics/assets/86760658/03ec7947-f488-4e3d-ac1f-1903c32db2c6) 
  61. **IAC** - Infrastructure as code (IaC) uses DevOps methodology and versioning with a descriptive model to define and deploy infrastructure, such as networks, virtual machines, load balancers, and connection topologies. 
  62. **Brown field app** - Brownfield application development usually happens when you want to develop or improve upon an existing application, and compels you to work with previously created code. 
      - ***monolithic*** - A monolithic application is built as a single unified unit  
@@ -122,8 +119,6 @@
  Vector databases are typically used to power vector search use cases like visual, semantic, and multimodal search. More recently, they're paired with generative artificial intelligence (AI) text models to create intelligent agents that provide conversational search experiences.) 
  -2. sql(Structured query language (SQL) is a programming language for storing and processing information in a relational database.) 
  -3. NoSQL, (also referred to as “not only SQL”, “non-SQL”, is an approach to database design that enables the storage and querying of data outside the traditional structures found in relational databases. ex(mongodb)) 
-     <img width="400" alt="image" src="https://github.com/KRIISHSHARMA/basics/assets/86760658/50941e5d-1d55-496c-9c3b-d961c127b4fd"> 
-  
  66. **ddos** - A distributed denial-of-service (DDoS) attack is a malicious attempt to disrupt the normal traffic of a targeted server, service or network by overwhelming the target or its surrounding infrastructure with a flood of Internet traffic. 
  67. **cgroups** - cgroups (abbreviated from control groups) is a Linux kernel feature that limits, accounts for, and isolates the resource usage (CPU, memory, disk I/O, etc.) of a collection of processes. 
  68. **namespace** - create isolated environments for processes, separating them from the host system and other processes. 
