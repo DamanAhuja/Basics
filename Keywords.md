@@ -154,3 +154,13 @@
  78.**veth**- The veth devices are virtual Ethernet devices. They can act as tunnels between network namespaces to create a bridge to a physical network device in another namespace, but can also be used as standalone network devices 
   
  <img width="640" alt="image" src="https://github.com/KRIISHSHARMA/basics/assets/86760658/269ba63f-d3db-4a11-bbbe-6ecdf997d226">
+
+79.**Libvirt**-  An open-source API, daemon and management tool for managing platform virtualization.
+   - ***Daemon***- In multitasking computer operating systems, a daemon is a computer program that runs as a background process
+
+<img width="640" alt="image" src="https://github.com/DamanAhuja/Basics/assets/142963733/992e5ba4-8ca0-4ce9-8598-33676ed56f76">.
+
+
+80.**oVirt**- A free, open-source virtualization management platform. Founded by Redhat
+
+81.**virt-manager**- A desktop virtual machine monitor primarily developed by Red Hat
